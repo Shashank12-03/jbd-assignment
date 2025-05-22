@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\shashank\\javascript\\node\\assignment\\logs\\logs\\.7a8f9b16787e4b50fb9221924aa1adc159e2c3c4-audit.json",
+    "files": [
+        {
+            "date": 1747914513387,
+            "name": "D:\\shashank\\javascript\\node\\assignment\\logs\\logs\\2025-05-22-combined.log",
+            "hash": "edb593b0aedce93f423c3a555ea677a750cfa7a8492b545310d1ecfaca050401"
+        }
+    ],
+    "hashType": "sha256"
+}
